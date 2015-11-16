@@ -1,3 +1,5 @@
+PS: 将继承的Switch组建 由swift 改写成Object C 项目中想要
+
 # Paper Switch Objective C
  RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on. Objecrive C Version
 
@@ -13,5 +15,6 @@ I have just use paper switch Swift animation file in Objective C code.
 
 - iOS 8.0+
 - Xcode 6.1
+
 	
 
